@@ -1,0 +1,4 @@
+bottle==0.12.18
+bottle-react==16.2.4
+waitress==1.4.3
+PlexAPI==3.4.0
